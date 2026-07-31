@@ -24,6 +24,3 @@ jobs:
 
       - name: Build Docker image
         run: docker build -t devops-demo .936
-
-
-        #hii
